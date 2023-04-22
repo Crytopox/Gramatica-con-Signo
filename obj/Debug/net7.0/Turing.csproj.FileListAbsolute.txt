@@ -1,0 +1,15 @@
+C:\Users\cryto\Desktop\Turing\Turing\bin\Debug\net7.0\Turing.exe
+C:\Users\cryto\Desktop\Turing\Turing\bin\Debug\net7.0\Turing.deps.json
+C:\Users\cryto\Desktop\Turing\Turing\bin\Debug\net7.0\Turing.runtimeconfig.json
+C:\Users\cryto\Desktop\Turing\Turing\bin\Debug\net7.0\Turing.dll
+C:\Users\cryto\Desktop\Turing\Turing\bin\Debug\net7.0\Turing.pdb
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.csproj.AssemblyReference.cache
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.AssemblyInfoInputs.cache
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.AssemblyInfo.cs
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.csproj.CoreCompileInputs.cache
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.dll
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\refint\Turing.dll
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.pdb
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\Turing.genruntimeconfig.cache
+C:\Users\cryto\Desktop\Turing\Turing\obj\Debug\net7.0\ref\Turing.dll
